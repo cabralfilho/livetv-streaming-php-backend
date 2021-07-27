@@ -31,3 +31,7 @@ You can download and install XAMPP Server from the given link [Here](https://www
 
 Watch How to connect this php scripts with Android app in our Channel [SmallAcademy](https://smallacademy.co/youtube)
 
+[![Watch the video](https://i.ytimg.com/vi/yVkRUANsA7k/maxresdefault.jpg)](https://youtu.be/yVkRUANsA7k)
+
+### Donate to Improve this Project 
+* [Donte](https://smallacademy.co/donate)
